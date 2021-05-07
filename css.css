@@ -1,0 +1,136 @@
+body {
+    direction: rtl;
+}
+
+#mySidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    line-height: 1;
+}
+
+.img1 {
+width: 150px; 
+  height: 160px;
+  padding-top: 20px;
+  float:right;
+}
+.h2mun{
+margin-right: 160px;
+font-family: tahoma;
+font-weight: bolder;
+ 
+}
+.pmun{
+    padding-right: 160px;
+    font-family: tahoma;
+
+
+}
+.contant{
+
+height: 183px;
+width:725px;
+}
+
+#contant{
+margin-top: 60px;
+}
+a :hover{
+    text-decoration: underline;
+}
+.container2{
+    width: 500px;
+    display:flex;
+}
+.dimg1{
+    height: 150px;
+    width: 150px;
+
+}
+.dmain{
+    float:right;
+width:950px;
+height:1602px;
+}
+.contant{
+width: 950px;
+height: 200px;
+padding-bottom: 0;
+border:1px solid black;
+}
+.aimg1{
+  float:left;
+  width:350px;
+  margin-left:20px;
+}
+#contant{
+   margin-top:0; 
+}
+.chapmenu{
+    margin-top: 100px;
+}
+.gifheader{
+    position: absolute;
+    top:0;
+    margin-right:207px;
+}
+footer{
+    height: 160px;;
+    background-color:#02535c;
+    margin-top:1580px;
+    color:white;
+}
+.imginp{
+    height:400px;
+    width: 800px;
+    padding:10px 30px 0 0;
+}
+.h2inc{
+    font-weight: bold;
+}
+.dvdi{
+    background-color: #d9d9d9;
+    height:100px;
+    width:770px;
+    margin: 0 30px 0 0;
+   
+}
+.headin{
+font-weight: bold;
+font-size: 25px;
+margin-top:0;
+padding: 15px;
+}
+.svglogo{
+height: 100px;
+width: 40px;
+float: left;
+display: inline;
+padding-left: 10px;
+}
+.dfooter{
+    width: 520px;
+    height: 160px;
+    float: right;
+    padding-right: 15px;
+}
+.donbalf{
+    width: 100px;
+    display: inline;
+    float: left;
+     margin:30px 0 0 20px;
+}
+hr{
+    height: 1px;
+    background-color: black;
+}
+.pinc{
+    width:800px;
+    font-size: 20px;
+    font-family: Iransans;
+    letter-spacing: 1px;
+    line-height: 50px;
+    padding-right:15px
+}
